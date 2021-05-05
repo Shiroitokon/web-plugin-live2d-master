@@ -1,0 +1,70 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "character.dat",
+  "textures": [
+    "texture_00.png",
+    "texture_01.png"
+  ],
+  "motions": {
+    "tap": [{
+		
+        "file": "c310_02_attack.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c310_boss_short.ogg"
+      },
+	  {
+		
+        "file": "c310_02_attack.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c310_drive.ogg"
+      },
+	  {
+		
+        "file": "c310_02_attack.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c310_startbt.ogg"
+      },
+	  {
+	  	"weight":2,
+        "file": "c310_02_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c310_hit_1.ogg"
+      },
+	  {
+	  	"weight":2,
+        "file": "c310_02_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c310_hit_2.ogg"
+      },
+	  {
+	  	"weight":2,
+        "file": "c310_02_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c310_hit_3.ogg"
+      },
+	  {
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c310_story1.ogg"
+      },
+	  {
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c310_story2.ogg"
+      }
+    ],
+    "idle": [
+      {
+        "file": "c310_02_idle.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ]
+  }
+}

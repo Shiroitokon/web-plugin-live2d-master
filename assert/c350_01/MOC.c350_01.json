@@ -1,0 +1,68 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "character.dat",
+  "textures": [
+    "texture_00.png"
+  ],
+  "motions": {
+    "tap": [{
+		"weight":1,	  
+        "file": "c350_01_attack.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c350_skill.ogg"
+      },{
+	  	"weight":1,	
+        "file": "c350_01_attack.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c350_boss_short.ogg"
+      },{
+	  	"weight":1,	
+        "file": "c350_01_attack.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c350_prskill.ogg"
+      },{
+	  	"weight":1,	
+        "file": "c350_01_attack.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c350_victory.ogg"
+      },
+	  {
+		"weight":3,
+        "file": "c350_01_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c350_hit_1.ogg"
+      },
+	  {
+		"weight":3,	  
+        "file": "c350_01_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c350_hit_2.ogg"
+      },
+	  {
+		"weight":3,	  
+        "file": "c350_01_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c350_hit_3.ogg"
+      },
+	  {
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c350_story3.ogg"
+      }
+    ],
+    "idle": [
+      {
+        "file": "c350_01_idle.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ]
+  }
+}

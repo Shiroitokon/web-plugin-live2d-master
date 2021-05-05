@@ -1,0 +1,716 @@
+[
+    {
+        "name":"海军萌妹",
+        "url":"https://cdn.jsdelivr.net/gh/QiShaoXuan/live2DModel@1.0.0/live2d-widget-model-z16/assets/z16.model.json",
+        "canvasHeight":"400",
+        "canvasWidth":"250",
+        "waifuTop":"40px",
+        "assert": false
+    },
+    {
+        "name":"粉发小妹妹",
+        "url":"assert/epsilon2_1/epsilon2.1.model.json",
+        "canvasHeight":"450",
+        "canvasWidth":"300",
+        "waifuTop":"200px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"小哥哥",
+        "url":"assert/chitose/chitose.model.json",
+        "canvasHeight":"450",
+        "canvasWidth":"350",
+        "waifuTop":"70px",
+        "assert": true,
+        "scale": 1
+    }, 
+    {
+        "name":"双马尾小姐姐01",
+        "url":"assert/haru/01/haru01.model.json",
+        "canvasHeight":"450",
+        "canvasWidth":"200",
+        "waifuTop":"320px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"双马尾小姐姐02",
+        "url":"assert/haru/02/haru02.model.json",
+        "canvasHeight":"450",
+        "canvasWidth":"200",
+        "waifuTop":"320px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"Q版海军小哥哥",
+        "url":"assert/haruto/haruto.model.json",
+        "canvasHeight":"350",
+        "canvasWidth":"250",
+        "waifuTop":"-20px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"单马尾jk",
+        "url":"assert/hibiki/hibiki.model.json",
+        "canvasHeight":"400",
+        "canvasWidth":"150",
+        "waifuTop":"30px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"黑猫",
+        "url":"assert/hijiki/hijiki.model.json",
+        "canvasHeight":"350",
+        "canvasWidth":"250",
+        "waifuTop":"80px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"红衣小姐姐",
+        "url":"assert/izumi/izumi.model.json",
+        "canvasHeight":"280",
+        "canvasWidth":"250",
+        "waifuTop":"-20px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"Q版海军小妹妹",
+        "url":"assert/koharu/koharu.model.json",
+        "canvasHeight":"350",
+        "canvasWidth":"250",
+        "waifuTop":"-20px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"初音",
+        "url":"assert/miku/miku.model.json",
+        "canvasHeight":"350",
+        "canvasWidth":"250",
+        "waifuTop":"20px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"Q版狐狸小妹妹",
+        "url":"assert/nico/nico.model.json",
+        "canvasHeight":"250",
+        "canvasWidth":"250",
+        "waifuTop":"-20px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"Q版布偶妹妹",
+        "url":"assert/nietzsche/nietzche.model.json",
+        "canvasHeight":"250",
+        "canvasWidth":"250",
+        "waifuTop":"-20px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"Q版未来少年",
+        "url":"assert/ni-j/ni-j.model.json",
+        "canvasHeight":"250",
+        "canvasWidth":"250",
+        "waifuTop":"-20px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"Q版粉发妹妹",
+        "url":"assert/nipsilon/nipsilon.model.json",
+        "canvasHeight":"250",
+        "canvasWidth":"250",
+        "waifuTop":"-20px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"Q版短发粉发妹妹",
+        "url":"assert/nito/nito.model.json",
+        "canvasHeight":"250",
+        "canvasWidth":"250",
+        "waifuTop":"-20px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"书桌小姐姐",
+        "url":"assert/shizuku/shizuku.model.json",
+        "canvasHeight":"450",
+        "canvasWidth":"250",
+        "waifuTop":"150px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"白猫",
+        "url":"assert/tororo/tororo.model.json",
+        "canvasHeight":"350",
+        "canvasWidth":"250",
+        "waifuTop":"80px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"绿毛小妹妹",
+        "url":"assert/tsumiki/tsumiki.model.json",
+        "canvasHeight":"450",
+        "canvasWidth":"250",
+        "waifuTop":"20px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"Q版绿眼小可爱",
+        "url":"assert/unitychan/unitychan.model.json",
+        "canvasHeight":"250",
+        "canvasWidth":"250",
+        "waifuTop":"-20px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"小碗狗",
+        "url":"assert/wanko/wanko.model.json",
+        "canvasHeight":"250",
+        "canvasWidth":"250",
+        "waifuTop":"40px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"海军萌妹",
+        "url":"assert/z16/z16.model.json",
+        "canvasHeight":"400",
+        "canvasWidth":"250",
+        "waifuTop":"40px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"Terisa",
+        "url":"assert/Terisa/Terisa/model.json",
+        "canvasHeight":"400",
+        "canvasWidth":"300",
+        "waifuTop":"-10px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"血小板",
+        "url":"assert/kesshouban_v2/model.json",
+        "canvasHeight":"300",
+        "canvasWidth":"300",
+        "waifuTop":"60px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"22",
+        "url":"assert/22/22.model.json",
+        "canvasHeight":"400",
+        "canvasWidth":"150",
+        "waifuTop":"-20px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"33",
+        "url":"assert/33/33.model.json",
+        "canvasHeight":"400",
+        "canvasWidth":"150",
+        "waifuTop":"30px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"康纳",
+        "url":"assert/kanna/model.json",
+        "canvasHeight":"520",
+        "canvasWidth":"200",
+        "waifuTop":"350px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"len01",
+        "url":"assert/len/model.json",
+        "canvasHeight":"450",
+        "canvasWidth":"200",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"len02",
+        "url":"assert/len/model_impact.json",
+        "canvasHeight":"450",
+        "canvasWidth":"200",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 1
+    }
+    ,
+    {
+        "name":"len03",
+        "url":"assert/len/model_space.json",
+        "canvasHeight":"450",
+        "canvasWidth":"200",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 1
+    }
+    ,
+    {
+        "name":"len04",
+        "url":"assert/len/model_swim.json",
+        "canvasHeight":"450",
+        "canvasWidth":"200",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 1
+    }
+    ,
+    {
+        "name":"和泉纱雾",
+        "url":"assert/sagiri/model.json",
+        "canvasHeight":"360",
+        "canvasWidth":"200",
+        "waifuTop":"-50px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"c032_02",
+        "url":"assert/c032_02/MOC.c032_02.json",
+        "canvasHeight":"450",
+        "canvasWidth":"250",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"m261_89",
+        "url":"assert/m261_89/MOC.m261_89.json",
+        "canvasHeight":"400",
+        "canvasWidth":"350",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.5
+    },
+    {
+        "name":"c421_02",
+        "url":"assert/c421_02/MOC.c421_02.json",
+        "canvasHeight":"400",
+        "canvasWidth":"350",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.7
+    },
+    {
+        "name":"c417_02",
+        "url":"assert/c417_02/MOC.c417_02.json",
+        "canvasHeight":"450",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.69
+    },
+    {
+        "name":"c416_02",
+        "url":"assert/c416_02/MOC.c416_02.json",
+        "canvasHeight":"450",
+        "canvasWidth":"350",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.7
+    },
+    {
+        "name":"c415_00",
+        "url":"assert/c415_00/MOC.c415_00.json",
+        "canvasHeight":"450",
+        "canvasWidth":"350",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.7
+    },
+    {
+        "name":"c409_02",
+        "url":"assert/c409_02/MOC.c409_02.json",
+        "canvasHeight":"400",
+        "canvasWidth":"500",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.5
+    },
+    {
+        "name":"c400_01",
+        "url":"assert/c400_01/MOC.c400_01.json",
+        "canvasHeight":"480",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"c387_11",
+        "url":"assert/c387_11/MOC.c387_11.json",
+        "canvasHeight":"450",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.8
+    },
+    {
+        "name":"c386_10",
+        "url":"assert/c386_10/MOC.c386_10.json",
+        "canvasHeight":"450",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.8
+    },
+    {
+        "name":"c377_89",
+        "url":"assert/c377_89/MOC.c377_89.json",
+        "canvasHeight":"450",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.8
+    },
+    {
+        "name":"c374_02",
+        "url":"assert/c374_02/MOC.c374_02.json",
+        "canvasHeight":"450",
+        "canvasWidth":"430",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.47
+    },
+    {
+        "name":"c372_02",
+        "url":"assert/c372_02/MOC.c372_02.json",
+        "canvasHeight":"450",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.8
+    },
+    {
+        "name":"c370_01",
+        "url":"assert/c370_01/MOC.c370_01.json",
+        "canvasHeight":"450",
+        "canvasWidth":"330",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.7
+    },
+    {
+        "name":"c350_00",
+        "url":"assert/c350_00/MOC.c350_00.json",
+        "canvasHeight":"420",
+        "canvasWidth":"280",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.9
+    },
+    {
+        "name":"c350_01",
+        "url":"assert/c350_01/MOC.c350_01.json",
+        "canvasHeight":"460",
+        "canvasWidth":"240",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"c338_02",
+        "url":"assert/c338_02/MOC.c338_02.json",
+        "canvasHeight":"460",
+        "canvasWidth":"320",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.8
+    },
+    {
+        "name":"c324_01",
+        "url":"assert/c324_01/MOC.c324_01.json",
+        "canvasHeight":"460",
+        "canvasWidth":"320",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.8
+    },
+    {
+        "name":"c318_88",
+        "url":"assert/c318_88/MOC.c318_88.json",
+        "canvasHeight":"400",
+        "canvasWidth":"400",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.75
+    },
+    {
+        "name":"c312_00",
+        "url":"assert/c312_00/MOC.c312_00.json",
+        "canvasHeight":"450",
+        "canvasWidth":"330",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.8
+    },
+    {
+        "name":"c310_00",
+        "url":"assert/c310_00/MOC.c310_00.json",
+        "canvasHeight":"450",
+        "canvasWidth":"250",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"c310_02",
+        "url":"assert/c310_02/MOC.c310_02.json",
+        "canvasHeight":"450",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.7
+    },
+    {
+        "name":"c290_00",
+        "url":"assert/c290_00/MOC.c290_00.json",
+        "canvasHeight":"420",
+        "canvasWidth":"250",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"c283_11",
+        "url":"assert/c283_11/MOC.c283_11.json",
+        "canvasHeight":"350",
+        "canvasWidth":"550",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.3
+    },
+    {
+        "name":"c281_02",
+        "url":"assert/c281_02/MOC.c281_02.json",
+        "canvasHeight":"420",
+        "canvasWidth":"370",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.88
+    },
+    {
+        "name":"c220_00",
+        "url":"assert/c220_00/MOC.c220_00.json",
+        "canvasHeight":"470",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.88
+    },
+    {
+        "name":"c198_00",
+        "url":"assert/c198_00/MOC.c198_00.json",
+        "canvasHeight":"470",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.88
+    },
+    {
+        "name":"c193_00",
+        "url":"assert/c193_00/MOC.c193_00.json",
+        "canvasHeight":"470",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.88
+    },
+    {
+        "name":"c176_01",
+        "url":"assert/c176_01/MOC.c176_01.json",
+        "canvasHeight":"500",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"c173_00",
+        "url":"assert/c173_00/MOC.c173_00.json",
+        "canvasHeight":"500",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"c169_00",
+        "url":"assert/c169_00/MOC.c169_00.json",
+        "canvasHeight":"500",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"c169_01",
+        "url":"assert/c169_01/MOC.c169_01.json",
+        "canvasHeight":"500",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"c167_01",
+        "url":"assert/c167_01/MOC.c167_01.json",
+        "canvasHeight":"500",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"c126_00",
+        "url":"assert/c126_00/MOC.c126_00.json",
+        "canvasHeight":"500",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"c126_02",
+        "url":"assert/c126_02/MOC.c126_02.json",
+        "canvasHeight":"500",
+        "canvasWidth":"500",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.55
+    },
+    {
+        "name":"c120_01",
+        "url":"assert/c120_01/MOC.c120_01.json",
+        "canvasHeight":"500",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.95
+    },
+    {
+        "name":"c101_01",
+        "url":"assert/c101_01/MOC.c101_01.json",
+        "canvasHeight":"500",
+        "canvasWidth":"300",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 1
+    },
+    {
+        "name":"c074_01",
+        "url":"assert/c074_01/MOC.c074_01.json",
+        "canvasHeight":"500",
+        "canvasWidth":"500",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.6
+    },
+    {
+        "name":"c058_02",
+        "url":"assert/c058_02/MOC.c058_02.json",
+        "canvasHeight":"500",
+        "canvasWidth":"400",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.8
+    },
+    {
+        "name":"c043_02",
+        "url":"assert/c043_02/MOC.c043_02.json",
+        "canvasHeight":"500",
+        "canvasWidth":"370",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.8
+    },
+    {
+        "name":"c036_01",
+        "url":"assert/c036_01/MOC.c036_01.json",
+        "canvasHeight":"500",
+        "canvasWidth":"370",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.8
+    },
+    {
+        "name":"c029_02",
+        "url":"assert/c029_02/MOC.c029_02.json",
+        "canvasHeight":"500",
+        "canvasWidth":"370",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.8
+    },
+    {
+        "name":"c011_02",
+        "url":"assert/c011_02/MOC.c011_02.json",
+        "canvasHeight":"500",
+        "canvasWidth":"370",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.8
+    },
+    {
+        "name":"c011_00",
+        "url":"assert/c011_00/MOC.c011_00.json",
+        "canvasHeight":"500",
+        "canvasWidth":"370",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.8
+    },
+    {
+        "name":"c003_18",
+        "url":"assert/c003_18/MOC.c003_18.json",
+        "canvasHeight":"500",
+        "canvasWidth":"370",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.8
+    },
+    {
+        "name":"m077_10",
+        "url":"assert/m077_10/MOC.m077_10.json",
+        "canvasHeight":"500",
+        "canvasWidth":"480",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.7
+    },
+    {
+        "name":"m077_11",
+        "url":"assert/m077_11/MOC.m077_11.json",
+        "canvasHeight":"500",
+        "canvasWidth":"480",
+        "waifuTop":"100px",
+        "assert": true,
+        "scale": 0.7
+    }
+    
+]

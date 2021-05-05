@@ -1,0 +1,60 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "character.dat",
+  "textures": [
+    "texture_00.png"
+  ],
+  "motions": {
+    "tap": [{
+        "file": "c029_02_attack.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c029_drive.ogg"
+      },
+	  {
+        "file": "c029_02_attack.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c029_skill.ogg"
+      },
+	  {
+
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c029_story2.ogg"
+      },
+	  {
+        "file": "c029_02_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c029_hit_1.ogg"
+      },
+	  {
+        "file": "c029_02_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c029_hit_2.ogg"
+      },
+	  {
+        "file": "c029_02_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c029_hit_3.ogg"
+      }
+    ],
+    "hit": [
+      {
+        "file": "c029_02_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "idle": [
+      {
+        "file": "c029_02_idle.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ]
+  }
+}

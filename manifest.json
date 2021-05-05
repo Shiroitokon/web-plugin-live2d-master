@@ -1,0 +1,28 @@
+{
+    "name":"live2d",
+    "description":"网站看板娘",
+    "version":"3.0",
+    "manifest_version":2,
+    "browser_action": {
+      "default_icon": "default_head.png",
+      "default_popup":"popup.html",
+	  "default_title": "2d看板娘设置"
+    },
+    "icons":{
+        "128":"default_head.png"
+    },
+    "permissions":[ "storage","tabs","activeTab", "unlimitedStorage","webRequest", "management", "bookmarks", "topSites", "notifications", "tabs"],
+    "web_accessible_resources": ["assert/*"],
+    "background": {
+        "scripts": ["background.js","jquery-3.4.1.min.js"]
+    },
+    "content_scripts":[
+        {
+			"all_frames": false, 
+			"run_at": "document_end", 
+            "matches": ["http://*/*","https://*/*","file:///*"],
+            "js": ["jquery-3.4.1.min.js","main.js","lib/L2Dwidget.min.js","lib/L2Dwidget.0.min.js", "lib/waifu-tips.js"],
+            "css":["style.css"]
+        }
+    ]
+}

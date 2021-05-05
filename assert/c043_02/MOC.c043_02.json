@@ -1,0 +1,65 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "character.dat",
+  "textures": [
+    "texture_00.png"
+  ],
+  "motions": {
+    "tap": [{
+        "file": "c043_02_attack.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c043_boss_short.ogg"
+      },{
+        "file": "c043_02_attack.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c043_startbt.ogg"
+      },
+	  {
+
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c043_story2.ogg"		
+      },
+	  {
+ 
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c043_story3.ogg"		
+      },
+	  {
+        "file": "c043_02_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c043_hit_1.ogg"			
+      },
+	  {
+        "file": "c043_02_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c043_hit_2.ogg"			
+      },
+	  {
+        "file": "c043_02_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "c043_hit_3.ogg"			
+      }
+    ],
+    "hit": [
+      {
+        "file": "c043_02_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ],
+    "idle": [
+      {
+        "file": "c043_02_idle.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ]
+  }
+}

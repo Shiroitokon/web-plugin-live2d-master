@@ -1,0 +1,83 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "character.dat",
+  "textures": [
+    "texture_00.png",
+    "texture_01.png"
+  ],
+  "motions": {
+    "tap": [{
+        "file": "m261_89_attack.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "m261_89_skill.ogg"
+      },
+	    {
+        "file": "m261_89_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "m261_89_hit_1.ogg"
+      },
+	    {
+        "file": "m261_89_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "m261_89_hit_2.ogg"
+      },
+	    {
+        "file": "m261_89_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "m261_89_hit_3.ogg"
+      },
+	    {
+        "file": "m261_89_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "m261_89_hit_4.ogg"
+      },
+	    {
+        "file": "m261_89_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "m261_89_hit_5.ogg"
+      },
+	    {
+        "file": "m261_89_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "m261_89_hit_6.ogg"
+      },
+	    {
+        "file": "m261_89_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "m261_89_hit_7.ogg"
+      },
+	    {
+        "file": "m261_89_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "m261_89_hit_8.ogg"
+      },
+	    {
+        "file": "m261_89_hit.mtn",
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "m261_89_hit_9.ogg"
+      },
+	  {
+        "fade_in": 0,
+        "fade_out": 0,
+		"sound": "m261_story3.ogg"
+      }
+    ],
+    "idle": [
+      {
+        "file": "m261_89_idle.mtn",
+        "fade_in": 0,
+        "fade_out": 0
+      }
+    ]
+  }
+}
