@@ -5,3 +5,6 @@
 本文中引用
 https://github.com/QiShaoXuan/live2DModel 模型包
 https://github.com/xiazeyu/live2d-widget.js 
+=======
+# web-plugin-live2d-master
+一个chrome看板娘插件
