@@ -5,5 +5,9 @@ ___
 https://github.com/QiShaoXuan/live2DModel 模型包   
 https://github.com/xiazeyu/live2d-widget.js live2djs库  
 部分模型为网络资源侵权请联系删除
+# 预览
 
 
+# use
+
+1. 打开谷歌浏览器扩展页面
